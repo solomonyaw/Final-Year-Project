@@ -3,11 +3,13 @@
 ![alt text](frontpage.PNG  "Description goes here")
 
 A social protection management Information System
+Read full project document here =>http://solomonadeklo.me/assets/finalyearproject 
 
 
-This repository contains the documentation of my Final year project which involved a research work to develop develop a social protection management information
-system to register potential members online to make contributions into social security schemes and to provide social assistance to beneficiaries of the scheme via a
-secure web portal. This thesis was based on a case study into how the social security system works in a developing country such as Ghana.
+This project is not opensource so I decided not to make the source code public.
+
+
+This repository contains the documentation of my Final Year Project which involved a research work to develop a social protection management information system to register potential members online to make contributions into social security schemes and to provide social assistance to beneficiaries of the scheme via a secure web portal. This thesis was based on a case study into how the social security system works in a developing country such as Ghana.
 
 This is to declare that, the research work underlying this
 thesis has been carried out by the under mentioned student under
@@ -17,7 +19,14 @@ conducted by the student as part of his final year project
 work in partial fulfillment of the requirement of the
 Bachelor of Science in Information Technology degree.
 
-STUDENT: SOLOMON YAW ADEKLO                                      
+STUDENT: SOLOMON YAW ADEKLO (http://solomonadeklo.me/)                                     
 
 SUPERVISOR: MR. PRINCE OWUSU AMOAKO
+
+# Below is the Data Flow Diagram for the system
+
+![alt text](dataflow.PNG  "Description goes here")
+
+
+
                            
