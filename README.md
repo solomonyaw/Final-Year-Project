@@ -4,7 +4,7 @@
 
 A social protection management Information System
 
-Read full project document here =>http://solomonadeklo.me/assets/finalyearproject 
+Read full project document here =>http://solomonadeklo.me/assets/finalyearproject.pdf 
 
 
 This project is not opensource so I decided not to make the source code public.
