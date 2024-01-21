@@ -4,7 +4,7 @@
 
 A social protection management Information System
 
-Read full project document here => <a target="_blank" href=" https://www.researchgate.net/publication/368662756_A_SOCIAL_PROTECTION_MANAGEMENT_INFORMATION_SYSTEM_CASE_STUDY_INTO_SOCIAL_SECURITY_AND_NATIONAL_INSURANCE_TRUST?_sg=XOZAG7e30u0GnKocUElBuxRImSgH-yGPjWBUOg43Un3NLQrtyByrmzFaC5DXuAm0Bsh97t0ot6jmQtm9Hq1yf2P1VLQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ">Final Year Project</a>
+Read full project document here => <a href=" https://www.researchgate.net/publication/368662756_A_SOCIAL_PROTECTION_MANAGEMENT_INFORMATION_SYSTEM_CASE_STUDY_INTO_SOCIAL_SECURITY_AND_NATIONAL_INSURANCE_TRUST?_sg=XOZAG7e30u0GnKocUElBuxRImSgH-yGPjWBUOg43Un3NLQrtyByrmzFaC5DXuAm0Bsh97t0ot6jmQtm9Hq1yf2P1VLQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ">Final Year Project</a>
 
 
 This project is not opensource so I decided not to make the source code public.
