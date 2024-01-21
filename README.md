@@ -25,7 +25,7 @@ conducted by the student as part of his final year project
 work in partial fulfillment of the requirement of the
 Bachelor of Science in Information Technology degree.
 
-STUDENT: SOLOMON YAW ADEKLO (http://solomonadeklo.me/)                                     
+STUDENT: SOLOMON YAW ADEKLO ([http://solomonadeklo.me/](https://solomonyaw.github.io/))                                     
 
 SUPERVISOR: MR. PRINCE OWUSU AMOAKO
 
